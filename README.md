@@ -1,9 +1,9 @@
-## Flashcard App
+## MyFlashcardApp
 
 ## Lab 1
 
 ### App Description
-`TODO://` Begins the 
+Started building the flashcard app with basic interface of different views that can be displayed on the screen. App can display a question and tapping the screen will display the answer to the question. 
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
