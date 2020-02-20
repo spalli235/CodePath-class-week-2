@@ -5,7 +5,7 @@
 ### App Description
 Started building the flashcard app with basic interface of different views that can be displayed on the screen. App can display a question and tapping the screen will display the answer to the question. 
 
-### App Walk-though
+### App Walk-through
 <img src="https://github.com/spalli235/CodePath-class-week-2/raw/master/ClassWeek2GIF.gif" width=200><br>
 
 
@@ -16,7 +16,7 @@ Started building the flashcard app with basic interface of different views that 
 - [x] Build in logic to show the answer side when the card is tapped
 - [x] Push code to GitHub
 ## Optional
-- [ ] toggle the flashcard between the question side and the answer side
+- [ ] Toggle the flashcard between the question side and the answer side
 - [ ] Style the question and answer side of the card to better distinguish between the two sides
 - [ ] Add selectable multiple choice answers beneath the card
    - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
