@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:gravity="center"
-        android:text="Who is the 44th President of the United States?"
+        android:text="@string/Question"
         android:textSize="40sp"
         android:textColor="#CC3413"/>
 
@@ -20,8 +20,17 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:gravity="center"
-        android:text="Barack Obama"
+        android:text="@string/Answer"
         android:textSize="40sp"
         android:visibility="invisible"
         android:textColor="#FFD700"/>
+
+    <ImageView
+        android:id="@+id/my_add_button"
+        android:layout_height="50dp"
+        android:layout_width="50dp"
+        android:scaleType="fitXY"
+        android:adjustViewBounds="true"
+        android:layout_alignParentBottom = "true"
+        android:src="@drawable/my_add_button" />
 </RelativeLayout>
