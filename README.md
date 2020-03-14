@@ -1,5 +1,28 @@
 ## MyFlashcardApp
 
+## Lab 3
+
+### App Description
+Flashcard app can now store newly created cards. It can also store multiple cards and flip through them. A next button was added to traverse through the cards with the questions always shown before the answers.
+
+### App Walk-though
+<img src="https://github.com/spalli235/CodePath-class-week-2/raw/master/ClassWeek5GIF.gif" width=200><br>
+
+
+## Required
+- [x] User can create a card and still see their created card when the app is relaunched
+- [x] User can create multiple cards and browse through all created cards
+
+## Optional
+- [ ] User can delete a card and no longer see it in their deck anymore
+- [ ] Flashcards are shown in random order instead of the order they were created in
+- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
+- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+
+
+
+
+
 ## Lab 2
 
 ### App Description
@@ -46,5 +69,5 @@ Started building the flashcard app with basic interface of different views that 
 - [ ] Toggle the flashcard between the question side and the answer side
 - [ ] Style the question and answer side of the card to better distinguish between the two sides
 - [ ] Add selectable multiple choice answers beneath the card
-   - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
+- [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question was answered correctly
 - [ ] Further customize and style the card
