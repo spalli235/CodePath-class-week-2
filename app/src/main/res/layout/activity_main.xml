@@ -36,4 +36,14 @@
         android:adjustViewBounds="true"
         android:scaleType="fitXY"
         android:src="@drawable/my_add_button" />
+
+    <ImageView
+        android:id="@+id/my_next_button"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignStart="@+id/my_add_button"
+        android:layout_centerVertical="true"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/my_next_button" />
 </RelativeLayout>
