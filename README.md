@@ -6,9 +6,7 @@
 Flashcard app has a new launcher icon. Also added animation effects for when moving from main to add card, revealing answers, and when clicking the next button.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/spalli235/CodePath-class-week-2/raw/master/ClassWeek7GIF.gif" width=200><br>
 
 
 ## Required
